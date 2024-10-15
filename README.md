@@ -5,7 +5,7 @@ chcp65001
 编译：
 
 g++ -o smart_car main.cpp SmartCar.cpp Chassis.cpp Tire.cpp AGX.cpp Camera.cpp Gyro.cpp Lidar.cpp LCD.cpp Battery.cpp Student.cpp  
-执行后会生成smart_manager.exe
+执行后会生成smart_car.exe
 
 运行：
 
